@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="1">
+    <includedir>
+        <dir name="include/"/>
+        <dir name="/"/>
+    </includedir>
+    <paths>
+        <dir name="C:/Stuff/code/scene/engine"/>
+    </paths>
+    <libraries>
+        <library>sdl</library>
+        <library>windows</library>
+    </libraries>
+</project>

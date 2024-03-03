@@ -1,0 +1,14 @@
+test/
+engine
+*.exe
+*.so
+*.dylib
+*.so.*
+*.a
+*.o
+*.dll
+*.lib
+release/
+external/
+lib/
+utils/
